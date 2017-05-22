@@ -33,18 +33,6 @@ width: 24px;
     float: left;
 }
 
-#main1{
-background-color:Turquoise;
-  width: 500px;
-  float: left;
-}
-
-#main2{
-background-color:Aquamarine;
-  width: 500px;
-  float: left;
-}
-
 .box{
   background-color:PaleTurquoise;
   color:White;
