@@ -28,7 +28,7 @@ width: 24px;
 
 #main{
   background-color:DarkTurquoise;
-  width: calc(100%-200px);
+  width: calc(100% - 200px);
     min-width: 500px;
     float: left;
 }
