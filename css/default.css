@@ -21,7 +21,7 @@ background-color:LightSeaGreen;
 
 #enmusubi_picture{
 width: 24px;
-  position: adsolute;
+  position: absolute;
   left: 50px;
   top: 50px;
 }
