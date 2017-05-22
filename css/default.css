@@ -36,8 +36,10 @@ background-color:Aquamarine;
   background-color:PaleTurquoise;
   color:White;
   width: 240px;
+  height:80px;
   margin:5px;
   float: left;
+  overflow: hidden;
 }
 
 aside{
