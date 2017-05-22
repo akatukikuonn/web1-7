@@ -18,6 +18,13 @@ background-color:LightSeaGreen;
   width: 100%;
 }
 
+#enmusubi_picture{
+width: 24px;
+  position: adsolute;
+  left: 50px;
+  top: 50px;
+}
+
 #main{
   background-color:DarkTurquoise;
   width: calc(100%-200px);
